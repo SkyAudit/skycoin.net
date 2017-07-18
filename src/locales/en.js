@@ -60,19 +60,20 @@ export default {
       whitepaper: 'Whitepapers',
       speed: {
         heading: 'Speed',
-        body: 'We built Skycoin to compete with credit cards and services like AliPay/Apple Pay. Transactions happen in seconds, not minutes.',
+        body: 'Skycoin transactions take as little as 2 seconds. With no bottlenecks or fees, Skycoin is faster than other cryptocurrencies and competitive with credit cards and Apple Pay. It’s perfect for Point of Sale (POS) and IOT applications.',
       },
       privacy: {
         heading: 'Privacy',
-        body: 'Skycoin makes it impossible to trace transactions by mixing transactions from multiple wallets to increase privacy using the CoinJoin protocol. ',
+        body: 'Transactions are anonymous and untraceable. Skycoin uses G. Maxwell’s CoinJoin protocol to mix transactions from multiple wallets, giving you total privacy online. ',
       },
       security: {
         heading: 'Security',
-        body: 'Skycoin is more secure because it does not rely upon the good will of miners, it cannot be 51% attacked.',
+        body: 'Skycoin is secure. It’s built from the ground up in Golang, using time-tested cryptographic standards. That means your transactions can’t be tampered with. Skycoin protects you from threats like 51% attack, reversal, duplication, and malleability.
+',
       },
       ecosystem: {
         heading: 'Ecosystem',
-        body: 'We’re building a rich ecosystem of real world applications on top of Skycoin starting with messaging, social media, and VPN.',
+        body: 'The Skycoin universe is growing. We’re expanding the ecosystem to include multifunctional tools and real-world web apps that improve your experience. A meshnet, distributed exchange, messaging, social media, and VPN are just the beginning.',
       },
     },
     network: {
