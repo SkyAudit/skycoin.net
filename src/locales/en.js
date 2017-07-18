@@ -68,8 +68,7 @@ export default {
       },
       security: {
         heading: 'Security',
-        body: 'Skycoin is secure. It’s built from the ground up in Golang, using time-tested cryptographic standards. That means your transactions can’t be tampered with. Skycoin protects you from threats like 51% attack, reversal, duplication, and malleability.
-',
+        body: 'Skycoin is secure. It’s built from the ground up in Golang, using time-tested cryptographic standards. That means your transactions can’t be tampered with. Skycoin protects you from threats like 51% attack, reversal, duplication, and malleability.',
       },
       ecosystem: {
         heading: 'Ecosystem',
